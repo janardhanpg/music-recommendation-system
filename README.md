@@ -22,12 +22,12 @@ This project is a **Music Recommender System** built with Streamlit and Spotipy 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/music-recommender-system.git
+    git clone https://github.com/janardhanpg/music-recommendation-system.git
     ```
-
+   
 2. Navigate to the project directory:
     ```bash
-    cd music-recommender-system
+    cd music-recommendation-system
     ```
 
 3. Install the required dependencies:
@@ -43,7 +43,9 @@ This project is a **Music Recommender System** built with Streamlit and Spotipy 
     CLIENT_SECRET = "your_client_secret"
     ```
 
-5. Make sure you have the dataset (`spotify_millsongdata.csv`) in the project directory. If not, download or generate it accordingly.
+5. Download the dataset from Kaggle:
+   - [Spotify Million Song Dataset](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset).
+   - Ensure the dataset (`spotify_millsongdata.csv`) is in the project directory.
 
 ## Model Training
 
