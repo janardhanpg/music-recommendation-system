@@ -110,13 +110,13 @@ The recommendation model is trained using a dataset containing song data. Hereâ€
 
 
 ### Main Interface
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/mainpage.png)
 
 ### Song Recommendation
-![Song Recommendation](screenshots/song_recommendation.png)
+![Song Recommendation](screenshots/recommend.png)
 
 ### Recommended Songs
-![Recommended Songs](screenshots/recommended_songs.png)
+![Recommended Songs](screenshots/recommended2.png)
 
 
 
