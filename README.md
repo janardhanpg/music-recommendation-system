@@ -108,5 +108,16 @@ The recommendation model is trained using a dataset containing song data. Hereâ€
 
 3. Select a song from the dropdown and click **Show Recommendation** to view similar song recommendations with album covers.
 
-## Project Structure
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- **Spotify** for the song data and album cover images.
+- **Spotipy** for providing a Python API wrapper for Spotify.
+- **Streamlit** for the simple and intuitive interface.
+- **NLTK** for text processing tools.
+- **Scikit-learn** for the machine learning framework used in the recommendation system.
 
