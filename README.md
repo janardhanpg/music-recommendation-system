@@ -109,6 +109,17 @@ The recommendation model is trained using a dataset containing song data. Hereâ€
 3. Select a song from the dropdown and click **Show Recommendation** to view similar song recommendations with album covers.
 
 
+### Main Interface
+![Main Interface](screenshots/main_interface.png)
+
+### Song Recommendation
+![Song Recommendation](screenshots/song_recommendation.png)
+
+### Recommended Songs
+![Recommended Songs](screenshots/recommended_songs.png)
+
+
+
 ## Acknowledgements
 
 - **Spotify** for the song data and album cover images.
